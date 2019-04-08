@@ -1,0 +1,13 @@
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\yahooweatherService\yahooweatherService\bin\Debug\yahooweatherService.exe.config
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\yahooweatherService\yahooweatherService\bin\Debug\yahooweatherService.exe
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\yahooweatherService\yahooweatherService\bin\Debug\yahooweatherService.pdb
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\yahooweatherService\yahooweatherService\bin\Debug\RestSharp.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\yahooweatherService\yahooweatherService\bin\Debug\RestSharp.xml
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\yahooweatherService\yahooweatherService\obj\Debug\yahooweatherService.Form1.resources
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\yahooweatherService\yahooweatherService\obj\Debug\yahooweatherService.Properties.Resources.resources
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\yahooweatherService\yahooweatherService\obj\Debug\yahooweatherService.csproj.GenerateResource.Cache
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\yahooweatherService\yahooweatherService\obj\Debug\yahooweatherService.exe
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\yahooweatherService\yahooweatherService\obj\Debug\yahooweatherService.pdb
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\yahooweatherService\yahooweatherService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\yahooweatherService\yahooweatherService\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\yahooweatherService\yahooweatherService\bin\Debug\Newtonsoft.Json.xml
